@@ -19,7 +19,7 @@ HEADERS += \
     timerhandler.h
 
 FORMS += \
-    dialog.ui
+    reactiontimetest.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
